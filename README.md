@@ -1,7 +1,12 @@
 # News image — 24 November 2026
 
-A make.fun entry for the bounty "Sum up 24 November's world news in one
-image". The program copies `entry.png` to `/output/entry.png`.
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Naonweh22/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Naonweh22/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124)
+
+A [make.fun](https://make.fun/bounty/news-image-20261124) entry for the
+bounty "Sum up 24 November's world news in one image". The program copies
+`entry.png` to `/output/entry.png`.
 
 `entry.png` is a 1024x1024 newspaper front page, "THE WORLD TODAY —
 TUESDAY 24 NOVEMBER 2026", summing up six verified stories from that day:
